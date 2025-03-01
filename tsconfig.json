@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "lib": ["ESNext", "DOM"], // Add this to support console & other standard APIs
+      "module": "CommonJS",
+      "target": "ES6"
+    }
+  }
+  
